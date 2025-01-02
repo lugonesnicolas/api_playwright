@@ -18,7 +18,7 @@ def load_links(json_file):
 
 # Función para enviar una solicitud y guardar los archivos
 async def send_request(data):
-    timeout = httpx.Timeout(30000)
+    timeout = httpx.Timeout(3000)
     async with httpx.AsyncClient(timeout=timeout) as client:
         response = await client.post(BASE_URL, json={"url": data["url"]})
         if response.status_code == 200:

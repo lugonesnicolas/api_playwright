@@ -6,4 +6,10 @@ services:
       - "8000:8000"
     volumes:
       - ./app:/app
+    cap_add:
+      - SYS_ADMIN
+    security_opt:
+      - seccomp:unconfined
+    environment:
+      - PLAYWRIGHT_BROWSERS_PATH=0
     restart: always
