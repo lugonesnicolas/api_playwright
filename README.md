@@ -5,3 +5,5 @@ El servicio se desarrolla con **FastAPI** y utiliza **Playwright** como motor de
 ![alt text](image.png)
 ## Tiempo de ejecucion asincrono usando httpx (10 urls)
 ![alt text](image-1.png)
+## Ejemplo de captura en plataforma Dia
+![alt text](image-2.png)
