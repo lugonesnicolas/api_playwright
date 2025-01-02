@@ -8,7 +8,7 @@ import os
 # Configuración
 HTML_FOLDER = r"app\html"
 SCREENSHOT_FOLDER = r"app\images"
-BASE_URL = "https://api-playwright.onrender.com//capture"
+BASE_URL = "https://api-playwright.onrender.com/capture"
 JSON_FILE = "dia.json"
 
 # Función para cargar los datos del JSON
@@ -18,7 +18,7 @@ def load_links(json_file):
 
 # Función para enviar una solicitud y guardar los archivos
 async def send_request(data):
-    timeout = httpx.Timeout(30)
+    timeout = httpx.Timeout(30000)
     async with httpx.AsyncClient(timeout=timeout) as client:
         response = await client.post(BASE_URL, json={"url": data["url"]})
         if response.status_code == 200:
