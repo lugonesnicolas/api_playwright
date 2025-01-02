@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_1_screenshot.png",
+        "html_file": "example_1_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_2_screenshot.png",
+        "html_file": "example_2_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_3_screenshot.png",
+        "html_file": "example_3_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_4_screenshot.png",
+        "html_file": "example_4_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_5_screenshot.png",
+        "html_file": "example_5_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_6_screenshot.png",
+        "html_file": "example_6_page.html"
+    }
+]
