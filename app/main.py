@@ -20,7 +20,7 @@ async def capture(request: CaptureRequest):
         await page.goto(request.url)
 
         # Capturar la pantalla y convertirla a Base64
-        screenshot_bytes = await page.screenshot(full_page=True)
+        screenshot_bytes = await page.screenshot(full_page=False)
         screenshot_base64 = base64.b64encode(screenshot_bytes).decode("utf-8")
 
         # Obtener el contenido HTML

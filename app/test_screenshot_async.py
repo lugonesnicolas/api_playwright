@@ -2,7 +2,6 @@ import asyncio
 import httpx
 import json
 import base64
-import time
 import os
 
 # Configuración
@@ -18,7 +17,7 @@ def load_links(json_file):
 
 # Función para enviar una solicitud y guardar los archivos
 async def send_request(data):
-    timeout = httpx.Timeout(3000)
+    timeout = httpx.Timeout(30)
     async with httpx.AsyncClient(timeout=timeout) as client:
         response = await client.post(BASE_URL, json={"url": data["url"]})
         if response.status_code == 200:
@@ -27,12 +26,12 @@ async def send_request(data):
             # Guardar la captura de pantalla
             screenshot_data = base64.b64decode(result["screenshot_base64"])
             screenshot_path = os.path.join(SCREENSHOT_FOLDER, data["screenshot_file"])
-            with open(screenshot_path , "wb") as screenshot_file:
+            with open(screenshot_path + data["screenshot_file"], "wb") as screenshot_file:
                 screenshot_file.write(screenshot_data)
 
             # Guardar el contenido HTML
             html_path = os.path.join(HTML_FOLDER, data["html_file"])
-            with open(html_path, "w", encoding="utf-8") as html_file:
+            with open(html_path + data["html_file"], "w", encoding="utf-8") as html_file:
                 html_file.write(result["html_content"])
 
             print(f"Archivos guardados para {data['url']}")
@@ -45,12 +44,4 @@ async def main():
     tasks = [send_request(link) for link in links]
     await asyncio.gather(*tasks)
 if __name__ == "__main__":
-    # Registrar el tiempo de inicio
-    start_time = time.time()
     asyncio.run(main())
-    # Registrar el tiempo de fin
-    end_time = time.time()
-
-    # Calcular el tiempo de ejecución
-    execution_time = end_time - start_time
-    print(f"Tiempo de ejecución: {execution_time:.6f} segundos")
