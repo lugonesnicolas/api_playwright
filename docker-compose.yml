@@ -1,9 +1,11 @@
 services:
   playwright-app:
+    image: playwright_server_image  # Aquí defines el nombre corto de la imagen
+    container_name: playwright_server  # Aquí defines el nombre específico del contenedor
     build:
       context: ./app
     ports:
       - "8000:8000"
     volumes:
       - ./app:/app
-    restart: always
+    restart: unless-stopped
