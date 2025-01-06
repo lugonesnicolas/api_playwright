@@ -48,5 +48,455 @@
         "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
         "screenshot_file": "example_10_screenshot.png",
         "html_file": "example_10_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_11_screenshot.png",
+        "html_file": "example_11_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_12_screenshot.png",
+        "html_file": "example_12_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_13_screenshot.png",
+        "html_file": "example_13_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_14_screenshot.png",
+        "html_file": "example_14_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_15_screenshot.png",
+        "html_file": "example_15_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_16_screenshot.png",
+        "html_file": "example_16_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_17_screenshot.png",
+        "html_file": "example_17_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_18_screenshot.png",
+        "html_file": "example_18_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_19_screenshot.png",
+        "html_file": "example_19_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_20_screenshot.png",
+        "html_file": "example_20_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_21_screenshot.png",
+        "html_file": "example_21_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_22_screenshot.png",
+        "html_file": "example_22_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_23_screenshot.png",
+        "html_file": "example_23_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_24_screenshot.png",
+        "html_file": "example_24_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_25_screenshot.png",
+        "html_file": "example_25_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_26_screenshot.png",
+        "html_file": "example_26_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_27_screenshot.png",
+        "html_file": "example_27_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_28_screenshot.png",
+        "html_file": "example_28_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_29_screenshot.png",
+        "html_file": "example_29_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_30_screenshot.png",
+        "html_file": "example_30_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_31_screenshot.png",
+        "html_file": "example_31_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_32_screenshot.png",
+        "html_file": "example_32_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_33_screenshot.png",
+        "html_file": "example_33_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_34_screenshot.png",
+        "html_file": "example_34_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_35_screenshot.png",
+        "html_file": "example_35_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_36_screenshot.png",
+        "html_file": "example_36_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_37_screenshot.png",
+        "html_file": "example_37_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_38_screenshot.png",
+        "html_file": "example_38_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_39_screenshot.png",
+        "html_file": "example_39_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_40_screenshot.png",
+        "html_file": "example_40_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_41_screenshot.png",
+        "html_file": "example_41_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_42_screenshot.png",
+        "html_file": "example_42_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_43_screenshot.png",
+        "html_file": "example_43_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_44_screenshot.png",
+        "html_file": "example_44_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_45_screenshot.png",
+        "html_file": "example_45_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_46_screenshot.png",
+        "html_file": "example_46_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_47_screenshot.png",
+        "html_file": "example_47_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_48_screenshot.png",
+        "html_file": "example_48_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_49_screenshot.png",
+        "html_file": "example_49_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_50_screenshot.png",
+        "html_file": "example_50_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_51_screenshot.png",
+        "html_file": "example_51_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_52_screenshot.png",
+        "html_file": "example_52_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_53_screenshot.png",
+        "html_file": "example_53_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_54_screenshot.png",
+        "html_file": "example_54_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_55_screenshot.png",
+        "html_file": "example_55_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_56_screenshot.png",
+        "html_file": "example_56_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_57_screenshot.png",
+        "html_file": "example_57_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_58_screenshot.png",
+        "html_file": "example_58_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_59_screenshot.png",
+        "html_file": "example_59_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_60_screenshot.png",
+        "html_file": "example_60_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_61_screenshot.png",
+        "html_file": "example_61_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_62_screenshot.png",
+        "html_file": "example_62_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_63_screenshot.png",
+        "html_file": "example_63_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_64_screenshot.png",
+        "html_file": "example_64_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_65_screenshot.png",
+        "html_file": "example_65_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_66_screenshot.png",
+        "html_file": "example_66_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_67_screenshot.png",
+        "html_file": "example_67_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_68_screenshot.png",
+        "html_file": "example_68_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_69_screenshot.png",
+        "html_file": "example_69_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_70_screenshot.png",
+        "html_file": "example_70_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_71_screenshot.png",
+        "html_file": "example_71_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_72_screenshot.png",
+        "html_file": "example_72_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_73_screenshot.png",
+        "html_file": "example_73_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_74_screenshot.png",
+        "html_file": "example_74_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_75_screenshot.png",
+        "html_file": "example_75_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_76_screenshot.png",
+        "html_file": "example_76_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_77_screenshot.png",
+        "html_file": "example_77_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_78_screenshot.png",
+        "html_file": "example_78_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_79_screenshot.png",
+        "html_file": "example_79_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_80_screenshot.png",
+        "html_file": "example_80_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_81_screenshot.png",
+        "html_file": "example_81_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_82_screenshot.png",
+        "html_file": "example_82_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_83_screenshot.png",
+        "html_file": "example_83_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_84_screenshot.png",
+        "html_file": "example_84_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_85_screenshot.png",
+        "html_file": "example_85_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_86_screenshot.png",
+        "html_file": "example_86_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_87_screenshot.png",
+        "html_file": "example_87_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_88_screenshot.png",
+        "html_file": "example_88_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_89_screenshot.png",
+        "html_file": "example_89_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_90_screenshot.png",
+        "html_file": "example_90_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_91_screenshot.png",
+        "html_file": "example_91_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_92_screenshot.png",
+        "html_file": "example_92_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_93_screenshot.png",
+        "html_file": "example_93_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/gaseosa-coca-cola-sabor-original-225-lt-14837/p",
+        "screenshot_file": "example_94_screenshot.png",
+        "html_file": "example_94_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p",
+        "screenshot_file": "example_95_screenshot.png",
+        "html_file": "example_95_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
+        "screenshot_file": "example_96_screenshot.png",
+        "html_file": "example_96_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_97_screenshot.png",
+        "html_file": "example_97_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_98_screenshot.png",
+        "html_file": "example_98_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_99_screenshot.png",
+        "html_file": "example_99_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_100_screenshot.png",
+        "html_file": "example_100_page.html"
     }
 ]
