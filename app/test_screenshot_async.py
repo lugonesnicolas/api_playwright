@@ -7,7 +7,7 @@ import os
 # Configuración
 HTML_FOLDER = r"app\html"
 SCREENSHOT_FOLDER = r"app\images"
-BASE_URL = "http://localhost:8000/capture"
+BASE_URL = "https://api-playwright.onrender.com/capture"
 JSON_FILE = "dia.json"
 
 # Función para cargar los datos del JSON

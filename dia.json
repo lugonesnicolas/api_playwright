@@ -28,5 +28,25 @@
         "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-ondas-sabor-a-flamin--hot-70-gr-297769/p",
         "screenshot_file": "example_6_screenshot.png",
         "html_file": "example_6_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/yerba-mate-playadito-suave-1-kg-269577/p",
+        "screenshot_file": "example_7_screenshot.png",
+        "html_file": "example_7_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/mantecol-bajo-en-sodio-111-gr-275085/p",
+        "screenshot_file": "example_8_screenshot.png",
+        "html_file": "example_8_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p",
+        "screenshot_file": "example_9_screenshot.png",
+        "html_file": "example_9_page.html"
+    },
+    {
+        "url": "https://diaonline.supermercadosdia.com.ar/leche-entera-dia-larga-vida-1-lt-608/p",
+        "screenshot_file": "example_10_screenshot.png",
+        "html_file": "example_10_page.html"
     }
 ]

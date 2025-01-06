@@ -1,19 +1,16 @@
 FROM mcr.microsoft.com/playwright:v1.49.1-noble
 
-# Instalar Python y pip si no están disponibles
+# Instalar Python y pip
 RUN apt-get update && apt-get install -y python3 python3-pip
 
 # Configurar el directorio de trabajo
 WORKDIR /app
 
-# Copiar el archivo de dependencias
-COPY requirements.txt .
+# Copiar los archivos del proyecto al contenedor
+COPY . .
 
 # Instalar las dependencias de Python
 RUN pip3 install --no-cache-dir --break-system-packages -r requirements.txt
-
-# Copiar el código de la aplicación
-COPY . .
 
 # Exponer el puerto de FastAPI
 EXPOSE 8000
