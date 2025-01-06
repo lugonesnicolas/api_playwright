@@ -7,6 +7,7 @@ import os
 # Configuración
 HTML_FOLDER = r"app\html"
 SCREENSHOT_FOLDER = r"app\images"
+
 BASE_URL = "http://201.176.223.114:8000/capture"
 JSON_FILE = "dia.json"
 
